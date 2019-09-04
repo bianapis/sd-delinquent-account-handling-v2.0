@@ -1,0 +1,54 @@
+{
+  "delinquentAccountProcedureInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "700431",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "productAccountNumber" : "productAccountNumber",
+    "taxReference" : "729623",
+    "paymentTransactions" : {
+      "paymentTransactionReference" : "794084"
+    },
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "productServiceType" : "productServiceType",
+    "collateralAssetAllocationProfile" : "collateralAssetAllocationProfile",
+    "bankBranchLocationReference" : "739578",
+    "productInstanceReference" : "718794",
+    "issuedDevice" : "issuedDevice",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "collateralAssetAllocationInstanceReference" : "731287",
+    "creditPlanReference" : {
+      "productInstanceReference" : "764784",
+      "creditPlanType" : "creditPlanType"
+    },
+    "customerReference" : "750930",
+    "productTransactions" : {
+      "productTransactionReference" : "737553"
+    },
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "feeTransactions" : {
+      "feeTransactionReference" : "736070"
+    },
+    "billingTransactions" : {
+      "billingTransactionReference" : "735430"
+    },
+    "interestTransactions" : {
+      "interestTransactionReference" : "761697"
+    }
+  },
+  "updateResponseRecord" : {},
+  "delinquentAccountProcedureUpdateActionTaskReference" : "DAPUATR711542",
+  "delinquentAccountProcessingSchedule" : "delinquentAccountProcessingSchedule",
+  "delinquentAccountProcedureUpdateActionTaskRecord" : {}
+}

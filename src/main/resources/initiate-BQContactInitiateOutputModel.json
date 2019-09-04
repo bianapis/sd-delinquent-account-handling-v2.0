@@ -1,0 +1,25 @@
+{
+  "contactInstanceStatus" : "contactInstanceStatus",
+  "delinquentAccountProcedureInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    }
+  },
+  "contactInstanceReference" : "CIR784261",
+  "contactInitiateActionReference" : "CIAR749975",
+  "contactInstanceRecord" : {
+    "customerDelinquentAccountContactRecord" : {
+      "correspondenceInstanceReference" : "749863",
+      "contactMessage" : "contactMessage",
+      "contactDate" : "09-22-2018",
+      "correspondenceContent" : "correspondenceContent",
+      "contactResult" : "contactResult",
+      "documentContent" : "documentContent",
+      "documentDirectoryEntryInstanceReference" : "702417"
+    },
+    "delinquentAccountContactResult" : "delinquentAccountContactResult",
+    "delinquentAccountContactWorkProduct" : "delinquentAccountContactWorkProduct"
+  },
+  "delinquentAccountProcessingSchedule" : "delinquentAccountProcessingSchedule",
+  "contactInitiateActionRecord" : {}
+}

@@ -1,0 +1,11 @@
+{
+  "paymentInitiateActionRecord" : {},
+  "delinquentAccountProcedureInstanceRecord" : {
+    "paymentTransactions" : {
+      "paymentTransactionReference" : "795954"
+    }
+  },
+  "paymentInstanceReference" : "DAPIR789222",
+  "paymentInitiateActionReference" : "DAPIAR757416",
+  "paymentInstanceStatus" : "paymentInstanceStatus"
+}

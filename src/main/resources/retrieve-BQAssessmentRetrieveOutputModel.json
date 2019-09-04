@@ -1,0 +1,70 @@
+{
+  "delinquentAccountProcedureInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "796328",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "productAccountNumber" : "productAccountNumber",
+    "taxReference" : "749717",
+    "paymentTransactions" : {
+      "paymentTransactionReference" : "769286"
+    },
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "productServiceType" : "productServiceType",
+    "collateralAssetAllocationProfile" : "collateralAssetAllocationProfile",
+    "bankBranchLocationReference" : "703575",
+    "productInstanceReference" : "740432",
+    "issuedDevice" : "issuedDevice",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "collateralAssetAllocationInstanceReference" : "719986",
+    "creditPlanReference" : {
+      "productInstanceReference" : "727573",
+      "creditPlanType" : "creditPlanType"
+    },
+    "customerReference" : "795487",
+    "productTransactions" : {
+      "productTransactionReference" : "773767"
+    },
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "feeTransactions" : {
+      "feeTransactionReference" : "724003"
+    },
+    "billingTransactions" : {
+      "billingTransactionReference" : "783221"
+    },
+    "interestTransactions" : {
+      "interestTransactionReference" : "752777"
+    }
+  },
+  "assessmentInstanceAnalysis" : {
+    "assessmentInstanceAnalysisReport" : {},
+    "assessmentInstanceAnalysisParameters" : "assessmentInstanceAnalysisParameters",
+    "assessmentInstanceAnalysisRecord" : {},
+    "assessmentInstanceAnalysisReportType" : "assessmentInstanceAnalysisReportType"
+  },
+  "assessmentInstanceRecord" : {
+    "delinquentAccountAssessmentRecord" : {},
+    "delinquentAccountAssessmentWorkProduct" : "delinquentAccountAssessmentWorkProduct"
+  },
+  "assessmentRetrieveActionTaskRecord" : {},
+  "assessmentRetrieveActionResponse" : "assessmentRetrieveActionResponse",
+  "assessmentRetrieveActionTaskReference" : "ARATR749505",
+  "assessmentInstanceReport" : {
+    "assessmentInstanceReportRecord" : {},
+    "assessmentInstanceReportType" : "assessmentInstanceReportType",
+    "assessmentInstanceReport" : {},
+    "assessmentInstanceReportParameters" : "assessmentInstanceReportParameters"
+  },
+  "delinquentAccountProcessingSchedule" : "delinquentAccountProcessingSchedule"
+}

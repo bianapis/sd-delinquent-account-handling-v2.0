@@ -1,0 +1,12 @@
+{
+  "executeRecordReference" : "ERR776533",
+  "delinquentAccountProcedureInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    }
+  },
+  "executeResponseRecord" : {},
+  "delinquentAccountProcedureExecuteActionTaskRecord" : {},
+  "delinquentAccountProcedureExecuteActionTaskReference" : "DAPEATR738309",
+  "delinquentAccountProcessingSchedule" : "delinquentAccountProcessingSchedule"
+}

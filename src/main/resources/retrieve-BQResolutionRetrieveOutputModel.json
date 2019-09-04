@@ -1,0 +1,71 @@
+{
+  "resolutionRetrieveActionResponse" : "resolutionRetrieveActionResponse",
+  "delinquentAccountProcedureInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "705020",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "productAccountNumber" : "productAccountNumber",
+    "taxReference" : "748088",
+    "paymentTransactions" : {
+      "paymentTransactionReference" : "727645"
+    },
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "productServiceType" : "productServiceType",
+    "collateralAssetAllocationProfile" : "collateralAssetAllocationProfile",
+    "bankBranchLocationReference" : "734888",
+    "productInstanceReference" : "780712",
+    "issuedDevice" : "issuedDevice",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "collateralAssetAllocationInstanceReference" : "725909",
+    "creditPlanReference" : {
+      "productInstanceReference" : "706703",
+      "creditPlanType" : "creditPlanType"
+    },
+    "customerReference" : "720097",
+    "productTransactions" : {
+      "productTransactionReference" : "723612"
+    },
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "feeTransactions" : {
+      "feeTransactionReference" : "715113"
+    },
+    "billingTransactions" : {
+      "billingTransactionReference" : "752323"
+    },
+    "interestTransactions" : {
+      "interestTransactionReference" : "780597"
+    }
+  },
+  "resolutionRetrieveActionTaskRecord" : {},
+  "resolutionInstanceAnalysis" : {
+    "resolutionInstanceAnalysisReport" : {},
+    "resolutionInstanceAnalysisRecord" : {},
+    "resolutionInstanceAnalysisParameters" : "resolutionInstanceAnalysisParameters",
+    "resolutionInstanceAnalysisReportType" : "resolutionInstanceAnalysisReportType"
+  },
+  "resolutionInstanceRecord" : {
+    "delinquentAccountResolutionWorkProduct" : "delinquentAccountResolutionWorkProduct",
+    "delinquentAccountResolutionTaskResult" : "delinquentAccountResolutionTaskResult",
+    "delinquentAccountResolutionActionPlan" : "delinquentAccountResolutionActionPlan"
+  },
+  "delinquentAccountProcessingSchedule" : "delinquentAccountProcessingSchedule",
+  "resolutionRetrieveActionTaskReference" : "RRATR709380",
+  "resolutionInstanceReport" : {
+    "resolutionInstanceReportType" : "resolutionInstanceReportType",
+    "resolutionInstanceReportRecord" : {},
+    "resolutionInstanceReportParameters" : "resolutionInstanceReportParameters",
+    "resolutionInstanceReport" : {}
+  }
+}

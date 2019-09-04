@@ -1,0 +1,77 @@
+{
+  "contactRetrieveActionTaskRecord" : {},
+  "contactRetrieveActionTaskReference" : "CRATR793453",
+  "contactInstanceAnalysis" : {
+    "contactInstanceAnalysisParameters" : "contactInstanceAnalysisParameters",
+    "contactInstanceAnalysisRecord" : {},
+    "contactInstanceAnalysisReportType" : "contactInstanceAnalysisReportType",
+    "contactInstanceAnalysisReport" : {}
+  },
+  "delinquentAccountProcedureInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "792509",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "productAccountNumber" : "productAccountNumber",
+    "taxReference" : "715531",
+    "paymentTransactions" : {
+      "paymentTransactionReference" : "785329"
+    },
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "productServiceType" : "productServiceType",
+    "collateralAssetAllocationProfile" : "collateralAssetAllocationProfile",
+    "bankBranchLocationReference" : "766495",
+    "productInstanceReference" : "793441",
+    "issuedDevice" : "issuedDevice",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "collateralAssetAllocationInstanceReference" : "766247",
+    "creditPlanReference" : {
+      "productInstanceReference" : "712640",
+      "creditPlanType" : "creditPlanType"
+    },
+    "customerReference" : "765524",
+    "productTransactions" : {
+      "productTransactionReference" : "779166"
+    },
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "feeTransactions" : {
+      "feeTransactionReference" : "716393"
+    },
+    "billingTransactions" : {
+      "billingTransactionReference" : "737215"
+    },
+    "interestTransactions" : {
+      "interestTransactionReference" : "729365"
+    }
+  },
+  "contactRetrieveActionResponse" : "contactRetrieveActionResponse",
+  "contactInstanceRecord" : {
+    "customerDelinquentAccountContactRecord" : {
+      "correspondenceInstanceReference" : "755282",
+      "contactMessage" : "contactMessage",
+      "contactDate" : "09-22-2018",
+      "correspondenceContent" : "correspondenceContent",
+      "contactResult" : "contactResult",
+      "documentContent" : "documentContent",
+      "documentDirectoryEntryInstanceReference" : "723314"
+    }
+  },
+  "delinquentAccountProcessingSchedule" : "delinquentAccountProcessingSchedule",
+  "contactInstanceReport" : {
+    "contactInstanceReportType" : "contactInstanceReportType",
+    "contactInstanceReportParameters" : "contactInstanceReportParameters",
+    "contactInstanceReportRecord" : {},
+    "contactInstanceReport" : {}
+  }
+}

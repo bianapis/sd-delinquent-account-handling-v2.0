@@ -1,0 +1,17 @@
+{
+  "contactRequestRecordReference" : "CRRR797003",
+  "contactRequestActionTaskRecord" : {},
+  "contactInstanceRecord" : {
+    "customerDelinquentAccountContactRecord" : {
+      "correspondenceInstanceReference" : "766464",
+      "contactMessage" : "contactMessage",
+      "contactDate" : "09-22-2018",
+      "correspondenceContent" : "correspondenceContent",
+      "contactResult" : "contactResult",
+      "documentContent" : "documentContent",
+      "documentDirectoryEntryInstanceReference" : "708707"
+    }
+  },
+  "contactRequestActionTaskReference" : "CRATR785996",
+  "requestResponseRecord" : {}
+}

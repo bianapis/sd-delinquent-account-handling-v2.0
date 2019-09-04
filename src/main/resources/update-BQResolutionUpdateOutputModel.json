@@ -1,0 +1,10 @@
+{
+  "resolutionUpdateActionTaskReference" : "RUATR775536",
+  "resolutionUpdateActionTaskRecord" : {},
+  "resolutionInstanceRecord" : {
+    "delinquentAccountResolutionWorkProduct" : "delinquentAccountResolutionWorkProduct",
+    "delinquentAccountResolutionTaskResult" : "delinquentAccountResolutionTaskResult",
+    "delinquentAccountResolutionActionPlan" : "delinquentAccountResolutionActionPlan"
+  },
+  "updateResponseRecord" : {}
+}

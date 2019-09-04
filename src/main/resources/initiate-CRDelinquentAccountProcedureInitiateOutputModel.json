@@ -1,0 +1,12 @@
+{
+  "delinquentAccountProcedureInitiateActionRecord" : {},
+  "delinquentAccountProcedureInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    }
+  },
+  "delinquentAccountProcessingSchedule" : "delinquentAccountProcessingSchedule",
+  "delinquentAccountProcedureInstanceStatus" : "delinquentAccountProcedureInstanceStatus",
+  "delinquentAccountProcedureInstanceReference" : "DAPIR742043",
+  "delinquentAccountProcedureInitiateActionReference" : "DAPIAR789632"
+}

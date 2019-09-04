@@ -1,0 +1,30 @@
+{
+  "paymentRetrieveActionResponse" : "paymentRetrieveActionResponse",
+  "paymentRetrieveActionTaskReference" : "DAPRATR772704",
+  "delinquentAccountProcedureInstanceRecord" : {
+    "productInstanceReference" : "755539",
+    "productAccountNumber" : "productAccountNumber",
+    "paymentTransactions" : {
+      "paymentTransactionReference" : "721656"
+    },
+    "customerReference" : "794858",
+    "productServiceType" : "productServiceType"
+  },
+  "paymentRetrieveActionTaskRecord" : {},
+  "paymentInstanceRecord" : {
+    "paymentTransactionReference" : "760164",
+    "paymentTransaction" : "paymentTransaction"
+  },
+  "paymentInstanceReport" : {
+    "paymentInstanceReportParameters" : "paymentInstanceReportParameters",
+    "paymentInstanceReportType" : "paymentInstanceReportType",
+    "paymentInstanceReportRecord" : {},
+    "paymentInstanceReport" : {}
+  },
+  "paymentInstanceAnalysis" : {
+    "paymentInstanceAnalysisReport" : {},
+    "paymentInstanceAnalysisParameters" : "paymentInstanceAnalysisParameters",
+    "paymentInstanceAnalysisReportType" : "paymentInstanceAnalysisReportType",
+    "paymentInstanceAnalysisRecord" : {}
+  }
+}
